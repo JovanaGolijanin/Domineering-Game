@@ -1,0 +1,234 @@
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\appsettings.json
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Jovana Golijanin.exe
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Jovana Golijanin.deps.json
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Jovana Golijanin.runtimeconfig.json
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Jovana Golijanin.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Jovana Golijanin.pdb
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.csproj.AssemblyReference.cache
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.AssemblyInfoInputs.cache
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.AssemblyInfo.cs
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.csproj.CoreCompileInputs.cache
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\staticwebassets\msbuild.Jovana Golijanin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\staticwebassets\msbuild.build.Jovana Golijanin.props
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Jovana Golijanin.props
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Jovana Golijanin.props
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\scopedcss\bundle\Jovana Golijanin.styles.css
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.csproj.CopyComplete
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\refint\Jovana Golijanin.dll
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.pdb
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.genruntimeconfig.cache
+C:\Users\Vukasin\Desktop\Jovana Golijanin\obj\Debug\net7.0\ref\Jovana Golijanin.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\appsettings.json
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Jovana Golijanin.exe
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Jovana Golijanin.deps.json
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Jovana Golijanin.runtimeconfig.json
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Jovana Golijanin.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Jovana Golijanin.pdb
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.csproj.AssemblyReference.cache
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.AssemblyInfoInputs.cache
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.AssemblyInfo.cs
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.csproj.CoreCompileInputs.cache
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\staticwebassets\msbuild.Jovana Golijanin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\staticwebassets\msbuild.build.Jovana Golijanin.props
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Jovana Golijanin.props
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Jovana Golijanin.props
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\scopedcss\bundle\Jovana Golijanin.styles.css
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.csproj.CopyComplete
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\refint\Jovana Golijanin.dll
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.pdb
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.genruntimeconfig.cache
+C:\Users\Vukasin\Desktop\Jovana\v2\Jovana Golijanin\obj\Debug\net7.0\ref\Jovana Golijanin.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\appsettings.json
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Jovana Golijanin.exe
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Jovana Golijanin.deps.json
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Jovana Golijanin.runtimeconfig.json
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Jovana Golijanin.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Jovana Golijanin.pdb
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Humanizer.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.csproj.AssemblyReference.cache
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.AssemblyInfoInputs.cache
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.AssemblyInfo.cs
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.csproj.CoreCompileInputs.cache
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\staticwebassets\msbuild.Jovana Golijanin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\staticwebassets\msbuild.build.Jovana Golijanin.props
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Jovana Golijanin.props
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Jovana Golijanin.props
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\scopedcss\bundle\Jovana Golijanin.styles.css
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.csproj.CopyComplete
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\refint\Jovana Golijanin.dll
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.pdb
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\Jovana Golijanin.genruntimeconfig.cache
+C:\Users\jovan\OneDrive\Desktop\Jovana Golijanin\obj\Debug\net7.0\ref\Jovana Golijanin.dll
